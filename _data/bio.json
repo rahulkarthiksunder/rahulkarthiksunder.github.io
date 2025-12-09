@@ -1,40 +1,30 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Rahul Karthik Sunder",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "rahulkarthiksunder@tamu.edu",
+    "phone": "979-574-6463",
+    "website": "https://rahulkarthiksunder.github.io",
+    "summary": "",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "77843",
+      "city": "College Station",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Texas"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "rahulkarthiksunder",
+        "url": "http://github.com/rahulkarthiksunder"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "rahul-karthik-s",
+        "url": "http://linkedin.com/in/rahul-karthik-s"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
